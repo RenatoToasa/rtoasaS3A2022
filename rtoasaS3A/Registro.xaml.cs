@@ -15,7 +15,7 @@ namespace rtoasaS3A
         public Registro(string usuario)
         {
             InitializeComponent();
-            lblUsuario.Text = usuario;
+            lblUsuario.Text = usuario; 
         }
     }
 }
